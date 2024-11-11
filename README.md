@@ -1,4 +1,4 @@
-# @react-native-oh-library/progress-view
+# @react-native-oh-tpl/progress-view
 
 This project is based on [@react-native-community/progress-view](https://github.com/react-native-progress-view/progress-view)
 

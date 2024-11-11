@@ -18,7 +18,7 @@
 		"deviceTypes": [
 			"default"
 		],
-		"packageName": "@react-native-oh-library/progress-view",
+		"packageName": "@react-native-oh-tpl/progress-view",
 		"installationFree": false,
 		"virtualMachine": "ark12.0.2.0",
 		"compileMode": "esmodule",
