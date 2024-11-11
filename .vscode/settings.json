@@ -1,4 +1,8 @@
 {
   "flow.useNPMPackagedFlow": true,
-  "javascript.validate.enable": false
+  "javascript.validate.enable": false,
+  "CodeCheck.TaskIdsUpdateTime": "2024-11-11 16:04:52",
+  "CodeCheck.TaskIdsForRemoteUrl": "",
+  "CodeCheck.TaskIdsForRemoteBranch": "",
+  "CodeCheck.TaskIds": ""
 }
